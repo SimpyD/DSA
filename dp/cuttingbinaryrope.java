@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/cutting-binary-string1342/1
+
 import java.util.Arrays;
 
 class cuttingbinaryrope {
